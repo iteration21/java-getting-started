@@ -20,7 +20,7 @@ public class DataServiceImplTest {
         service.enrichWithSystemData(output);
 
         //assert
-        assertThat(output.size(), is(greaterThan(1000)));
+        assertThat(output.size(), is(greaterThan(10)));
     }
 
 }
