@@ -1,3 +1,11 @@
+> renaming
+
+C:\meta\data\git\itm2>git remote rm heroku
+
+C:\meta\data\git\itm2>heroku git:remote -a javagettingstartedpushheroku
+set git remote heroku to https://git.heroku.com/javagettingstartedpushheroku.git
+
+
 # java-getting-started
 
 [![CircleCI](https://circleci.com/gh/heroku/java-getting-started.svg?style=svg)](https://circleci.com/gh/heroku/java-getting-started)
